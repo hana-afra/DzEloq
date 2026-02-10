@@ -1,4 +1,8 @@
 # Dzeloq: Translation from Algerian Arabic (Darija) to Modern Standard Arabic (MSA)
+## 🎥 Demo Video
+
+[![Watch the video](https://raw.githubusercontent.com/hana-afra/DzEloq/main/dzeloq-pic.jpg)](https://drive.google.com/file/d/1QLCf2HOpqOOqZCsT7CXi_LI9Aj0K5-_A/view?usp=sharing)
+
 
 **Natural Language Processing Course Project – Fall 2024**  
 National Higher School of Artificial Intelligence  
